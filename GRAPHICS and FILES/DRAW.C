@@ -1,0 +1,23 @@
+
+	gotoxy(1,12);
+	printf("       |                  |           ");
+	gotoxy(1,13);
+	printf("       |                  |           ");
+	gotoxy(1,14);
+	printf("       |                  |           ");
+	gotoxy(1,15);
+	printf("--------------------------------------");
+	gotoxy(1,16);
+	printf("       |                   |          ");
+	gotoxy(1,17);
+	printf("       |                   |          ");
+	gotoxy(1,18);
+	printf("       |                   |          ");
+	gotoxy(1,19);
+	printf("--------------------------------------");
+	gotoxy(1,20);
+	printf("       |                   |          ");
+	gotoxy(1,21);
+	printf("       |                   |           ");
+	gotoxy(1,22);
+	printf("       |                   |           ");
